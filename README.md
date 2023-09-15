@@ -1,1 +1,3 @@
-# Merdhub
+# MemoryHub
+---
+A Collectible Card Game.
